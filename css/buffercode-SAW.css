@@ -1,0 +1,35 @@
+﻿/* ===== Simple Author Widget ======
+======= http://buffercode.com ====== */
+
+.buffercode-wrap{
+min-width:250px;
+text-align:left;
+}
+
+.buffercode-inner-wrap-img-commet{
+min-width:250px;
+padding: 5px;
+}
+
+.buffercode-inner-wrap-social{
+padding:15px 0px 0px 0px;
+}
+
+.buffercode-image{
+float: left;
+margin:0px;
+}
+.buffercode-post-comment{
+float: left;
+padding: 15px;
+}
+.buffercode-post{
+padding-bottom:5px;
+}
+.buffercode-comments{
+}
+.buffercode-social{
+float: left;
+padding-right:15px;
+}
+.clear { clear: both; }
